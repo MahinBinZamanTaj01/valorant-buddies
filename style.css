@@ -84,3 +84,14 @@ h3{
      
      
  }
+ .column3 {
+    float: right;
+    width: 49%;
+    padding: 0px;
+ 
+    animation: example 4s timing-function delay iteration-count direction fill-mode;
+  }
+.column3 img{
+width: 93%;
+box-shadow: -9px 7px rgb(159, 238, 13);
+border-radius: 5px;
