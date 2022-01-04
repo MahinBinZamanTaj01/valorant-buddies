@@ -1,0 +1,31 @@
+.Red{
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+    color: rgb(228, 39, 39) 
+    
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    
+}
+h3{
+    text-align: center;
+    text-shadow: yellowgreen;
+}
+#name{
+    color: crimson;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(royalblue , darkblue);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 4.5px;}
